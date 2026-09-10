@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:yd_app/core/constants/app_constants.dart';
+import 'package:yd_app/presentation/home/home_page.dart';
 import 'package:yd_app/presentation/login/login_page.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: AppConstants.appTitle,
       theme: AppConstants.theme,
-      home: const LoginPage(),
+      home: const HomePage(),
     );
   }
 }

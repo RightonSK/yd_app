@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:yd_app/presentation/home/home_viewmodel.dart';
 import 'package:yd_app/presentation/message/message_add_page.dart';
 import 'package:yd_app/presentation/sales/sales_records_page.dart';
+import 'package:yd_app/presentation/sales_add/sales_add_page.dart';
 
 class HomePage extends ConsumerStatefulWidget {
   const HomePage({super.key});
@@ -14,42 +15,50 @@ class HomePage extends ConsumerStatefulWidget {
 class _HomePageState extends ConsumerState<HomePage> {
   int _currentIndex = 0;
 
-  static const _pages = <Widget>[
-    _MessageListTab(),
-    SalesRecordsPage(),
-  ];
+  static const _pages = <Widget>[_MessageListTab(), SalesRecordsPage()];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(_currentIndex == 0 ? 'メッセージ一覧' : '販売実績'),
-      ),
+      appBar: AppBar(title: Text(_currentIndex == 0 ? 'メッセージ一覧' : '販売実績')),
       body: _pages[_currentIndex],
-      floatingActionButton: _currentIndex == 0
-          ? FloatingActionButton(
-              onPressed: () {
-                Navigator.of(context).push(
-                  MaterialPageRoute(
-                    builder: (_) => const MessageAddPage(),
-                  ),
-                );
-              },
-              child: const Icon(Icons.add),
-            )
-          : null,
+      // floatingActionButton: _currentIndex == 0
+      //     ? FloatingActionButton(
+      //         onPressed: () {
+      //           Navigator.of(context).push(
+      //             MaterialPageRoute(
+      //               builder: (_) => const MessageAddPage(),
+      //             ),
+      //           );
+      //         },
+      //         child: const Icon(Icons.add),
+      //       )
+      //     : null,
+      floatingActionButton: switch (_currentIndex) {
+        0 => FloatingActionButton(
+          onPressed: () {
+            Navigator.of(
+              context,
+            ).push(MaterialPageRoute(builder: (_) => const MessageAddPage()));
+          },
+          child: const Icon(Icons.add),
+        ),
+        1 => FloatingActionButton(
+          onPressed: () {
+            Navigator.of(
+              context,
+            ).push(MaterialPageRoute(builder: (_) => const SalesAddPage()));
+          },
+          child: const Icon(Icons.add),
+        ),
+        _ => null,
+      },
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentIndex,
         onTap: (index) => setState(() => _currentIndex = index),
         items: const [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.message),
-            label: 'メッセージ',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.bar_chart),
-            label: '販売実績',
-          ),
+          BottomNavigationBarItem(icon: Icon(Icons.message), label: 'メッセージ'),
+          BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: '販売実績'),
         ],
       ),
     );

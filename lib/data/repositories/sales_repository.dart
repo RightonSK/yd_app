@@ -8,7 +8,11 @@ class SalesRepository {
   Future<List<SalesRecord>> fetchSalesRecords() {
     return _api.fetchSalesRecords();
   }
-}
+
+  Future<List<SalesRecord>> addSalesRecords() {
+    return Future.value([]);
+  }
+ }
 
 final salesRepositoryProvider = Provider<SalesRepository>((ref) {
   return SalesRepository();

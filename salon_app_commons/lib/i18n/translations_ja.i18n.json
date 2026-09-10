@@ -1,0 +1,392 @@
+{
+    "why": {
+        "why_flutter": "なぜFlutterなのか？",
+        "description": "Flutterは今すごい勢いで普及しています。開発元のGoogleや開発者コミュニティの勢い、そして少人数で高速に開発できる生産性の高さ、開発者UXの良さが評価され、ビジネスの現場でも急速に流行っています。Flutter大学はこのFlutterの魅力に共感し、2020年4月に始まり、以来日本のFlutterコミュニティを盛り上げてきました。今後は世界も視野に入れて、開発者が楽しく学習し、時に仕事を交換したり、アプリ開発の知見を共有できる世界を作っていきます。",
+        "learn_more": "Flutterについてもっと詳しく知る"
+    },
+    "works": {
+        "member_development_record": "メンバーの開発実績",
+        "released_ago": "リリース",
+        "updated_ago": "更新",
+        "joint_development": "共同開発",
+        "individual_development": "個人開発"
+    },
+    "about": {
+        "three_features": "Flutter大学3つの特徴",
+        "youtube_free": "Flutter基礎講座をYouTubeで公開",
+        "ai_training": "AIと人間講師に同時に聞ける",
+        "coach": "私たちが学習コーチをします。",
+        "learn_from_code": "コードを読んで学べる",
+        "flutter_textbook": "Flutterの教科書で学べる",
+        "joint_study_meeting": "共同勉強会でアウトプットできる",
+        "individual_development_presentation": "個人開発発表会でモチベを上げる",
+        "team_development": "みんなでチーム開発ができる",
+        "engineer_introduction": "エンジニア紹介もやってます",
+        "slack_interaction": "Slackでの情報交換が盛ん",
+        "online_workroom": "作業部屋で集中できる",
+        "online_exchange_meeting": "交流会でエンジニア友達ができる",
+        "share_house_off_meeting": "シェアハウス、オフ会で一生の仲間を",
+        "job_is_here": "仕事はここで見つかる",
+        "youtube_free_description": "YouTubeチャンネル「Flutter大学」で教材を無料公開しています。Flutterの基礎が動画で学べるので、実はこれだけでアプリが作れるようになる方もいらっしゃいます。",
+        "ai_training_description": "AI修行プランでは、最新のAIモデルGemini 2.5 Proに無制限で質問ができます。24時間いつでも即座に回答が得られ、必要に応じて経験豊富な人間講師のサポートも受けられるため、Flutter学習を爆速で進められます。",
+        "learn_from_code_description": "Flutter大学専用アプリや共同開発で作られたアプリの生のコードをGithubで閲覧できます。providerやriverpodを使った状態管理の仕方や位置情報アプリの作り方などを実際のコードを参考にして進めることができます。このLPのFlutter Webのコードも全部見れます。",
+        "flutter_textbook_description": "月4,400円の課題学習プラン以上の方は、Flutter大学限定オリジナル教材「Flutterの教科書」や「【リリースまで学べる】位置情報APIを使ったFlutterアプリ開発」を閲覧することができます。その場合、zennで別途購入する必要はございません。教材は随時追加していきます！",
+        "joint_study_meeting_description": "メンバーの有志で水曜日の21時から共同勉強会を行っています。メンバーが週替わりでFlutterの知見を発表したり、NotionやAIの話題など内容は多岐に渡ります。",
+        "individual_development_presentation_description": "個人開発の成果を発表する発表会が月１回行われています。自分の使ったアプリを人に知ってもらう機会にもなるし、締切効果でモチベもキープできます。みんなが何を考えて開発しているか、コードだけじゃなくマーケティングも学ぶ良い機会になります。",
+        "team_development_description": "３ヶ月ごとにチームを結成し、共同開発を行っています！3ヶ月に1回キックオフを行います。その際アイデアを持つ人がアプリのアイデアを発表し、賛同するものは参加を表明してチームを結成するというルールです。キックオフは1月、4月、7月、10月に行っています。",
+        "engineer_introduction_description1": "Flutter大学では、Flutterエンジニアをお探しの方からのご連絡を受け付けています。Flutter大学に参加しているエンジニア",
+        "engineer_introduction_description2": "人の中から、条件に合うエンジニアをご紹介することができます。",
+        "slack_interaction_description": "Flutterの情報交換はもちろん最新AIの動向やエンジニアならではのキャリア談義から海外進出の話まで様々な会話が行われています。１日見ないだけでSlackの未読が大量にたまります。",
+        "online_workroom_description": "GatherやMetaLifeを用いたオンライン作業部屋を用意しています。朝のもくもく会からMTG、オンライン飲み会まで、自由に使われています。",
+        "online_exchange_meeting_description": "zoomを用いたオンライン交流会を月に1回行っています。ここで出来たつながりで仕事の話が舞い込んだり、実は同じ出身地で盛り上がったり、素晴らしい交流の機会です。",
+        "share_house_off_meeting_description": "東京恵比寿にシェアハウス「フラハ」、滋賀県東近江市に古民家「Flutter別荘」があり、Flutter大学メンバーが住んでいます。また、オフ会は、東京、札幌、名古屋、大阪、福岡などで２ヶ月に１回ペースで行なっています。やはりオフラインでの交流は濃い話もでき、オンラインには変え難いものです。",
+        "job_is_here_description": "FlutterWork経由での仕事はslackにてシェアされ、メンバーは応募することができます。運営によるチェックの後、条件があえば企業さんとマッチングします。お互いにコミュニケーション能力や技術力がわかっていて、信頼関係があるからこそスムーズな仕事の紹介が成り立っています。",
+        "youtube_free_button": "YouTube「Flutter大学」",
+        "ai_training_button": "AI修行プランとは？",
+        "learn_from_code_button": "GitHub「Flutter大学」",
+        "flutter_textbook_button": "zenn本「Flutterの教科書」",
+        "joint_study_meeting_button": "共同勉強会のまとめ記事",
+        "individual_development_presentation_button": "個人開発発表会とは？",
+        "team_development_button": "共同開発とは？",
+        "engineer_introduction_button": "Flutterエンジニアをお探しの企業様はこちら",
+        "slack_interaction_button": "Flutter大学の活用法 〜 Slack 編〜",
+        "online_workroom_button": "オンライン作業部屋とは？",
+        "online_exchange_meeting_button": "オンライン交流会とは？",
+        "share_house_off_meeting_button": "Flutter別荘のTwitter",
+        "mentor_plans": "ここだけの学習指導プラットフォーム",
+        "mentor_plans_description": "「CodeBoy2」と呼ばれる、Flutter大学内で講師にマンツーマンで指導をしてもらえるプラットフォームがあります。講師はFlutter大学メンバーで、4~10%という破格の手数料のみで、指導、メンター活動を行うことができ、学習者はFlutter大学内の優秀なエンジニアの方々の指導をマンツーマンで受けることができます。都度決済なので、どのプランの方でもお使いいただけます。マンツーマンで学習指導を受けたい方、すでに他社プラットフォームさんで学習メンターをされてる講師の方におすすめの機能です。"
+    },
+    "plan": {
+        "community": "コミュニティプラン",
+        "learning": "課題学習プラン",
+        "trainingLight": "ライト修行プラン",
+        "training": "修行プラン",
+        "aiTraining": "AI修行プラン"
+    },
+    "price": {
+        "lPDescription": {
+            "community": "全てのエンジニア向け\nコミュニティを活用しよう！",
+            "learning": "独学でFlutter学習する方向け\n限定教材を活用しよう！",
+            "trainingLight": "ちょっと質問したい人向け\n月4回だけ質問できます！",
+            "training": "爆速で成長したい人向け\nたくさん質問しよう！",
+            "aiTraining": "爆速で成長したい人向け\nAIと人間講師に同時に聞ける！"
+        },
+        "lPFeature1": "・初回1on1MTG\n・Flutter大学Slack参加\n・GitHub Organization参加\n・共同開発への参加\n・共同勉強会の閲覧・発表\n・アーカイブ動画閲覧\n・オンライン交流会\n・オフ会",
+        "lPFeature2": "コミュニティの全機能に加えて\n・限定教材での学習",
+        "lPFeature3": "課題学習の全機能に加えて\n・ライトサポート付き",
+        "lPFeature4": "課題学習の全機能に加えて\n・フルサポート付き\n・GitHubでテキスト質問可能\n・2,860円のFlutter入門書プレゼント",
+        "lPFeature5": "課題学習の全機能に加えて\n・Gemini 2.5 Proに質問し放題\n・モバイル歴10年の人間講師もサポート\n・2,860円のFlutter入門書プレゼント",
+        "yen": "円",
+        "yen_per_month": " 円 / 月",
+        "month": "月",
+        "threeMonth": "3ヶ月",
+        "sixMonth": "6ヶ月",
+        "year": "年",
+        "if_convert_to_month": "月に換算すると",
+        "threeMonthsOff": "3ヶ月分OFF!!"
+    },
+    "interval": {
+        "monthly": "月額",
+        "threeMonth": "3ヶ月",
+        "sixMonth": "6ヶ月",
+        "annual": "年額"
+    },
+    "cta_github": "GitHubで始める",
+    "cta": "メールアドレスで始める",
+    "cta_available_count1": "現在あと",
+    "cta_available_count2": "人受付中",
+    "cta_no_available": "今月は締め切りました",
+    "people": {
+        "subtitle1": "講師陣",
+        "subtitle2": "活躍しているメンバー",
+        "other1": "その他合計で",
+        "other2": "名が参加中！",
+        "slackAPI": "※毎時間Slack APIで人数を集計",
+        "peoples": {
+            "kosuke": {
+                "name": "三枝 洸介",
+                "nickname": "Kosuke",
+                "company": "Ubie株式会社",
+                "role": "共同勉強会主催",
+                "description": "1995年生まれ。福岡県出身。九州大学工学部機械航空工学科卒。卒業後Siemens社のベルギー研究所で機械学習系の研究業務に従事。その後、Web,Flutterエンジニアとして、atama plus株式会社、株式会社SODA等を経て株式会社Omiaiで勤務中。FlutterKaigi 2023, FlutterNinjas 2024などで登壇。複数のpub パッケージの開発者。一緒に楽しく技術を学びましょう！"
+            },
+            "daigo": {
+                "name": "若林 大剛",
+                "nickname": "ダイゴ",
+                "company": "フリーランス（NPO支援「エイドル」開発他）",
+                "role": "オンライン交流会主催",
+                "description": "1998年生まれ。大阪出身。大阪体育大学卒業後、ユニクロに入社。2020年10月、kboyに弟子入りするため、ユニクロを退職。大阪から札幌に移住し、Flutterを使ったアプリ開発を手伝う。１年間の修行期間を経て2021年10月からFlutterのフリーランスエンジニアとして活躍、エイドルを始め複数のアプリ開発プロジェクトに参画している。Flutter大学では、オンライン交流会の主催、FlutterGakkaiの運営など多角的に活動している。指導では、初心者に近い存在としてわかりやすいアドバイスや記事執筆に定評がある。初心者のみなさん一緒に頑張りましょう！"
+            },
+            "kboy": {
+                "name": "藤川 慶",
+                "nickname": "kboy",
+                "company": "株式会社KBOY代表取締役社長",
+                "role": "創設者",
+                "description": "1991年生まれ。札幌出身。早稲田大学創造理工学部総合機械工学科卒。プロトコーポレーションでフリマアプリの開発ディレクターを経験後エンジニアに転向し、JX通信社で「NewsDigest」、GraffityにてARアプリ「ペチャバト」の開発を経験。１年半のフリーランス期間を経て、2020年6月に現在の株式会社KBOYを創業。同時期にFlutter大学をスタート。「ゼロから学ぶFlutterアプリ開発」著者。一緒にアプリを作って成功させましょう！"
+            },
+            "masaki": {
+                "name": "佐藤 将来",
+                "nickname": "Masaki",
+                "company": "フリーランス",
+                "role": "個人開発プロジェクト主宰",
+                "description": "1995年生まれ。愛知県出身。明治大学国際日本学部卒。在学中、特定非営利活動法人アイセック・ジャパンにて海外インターンシップを経験、台湾の英語教育スタートアップにてマーケティング業務にも携わる。その後、大学時代の友人とサービス立ち上げに複数取り組むが、いずれも失敗。その間、UberEats等で生計を立てていた。現在は、フリーランスFlutterエンジニアとして活動しながら、自身のアプリを開発中。Flutterを通して、自分のアイデアを形にしていきましょう！"
+            },
+            "uetomo": {
+                "name": "上野 智弘",
+                "nickname": "うえとも",
+                "company": "フリーランス",
+                "role": "オフ会担当",
+                "description": "1993年生まれ。山形県出身。学生時代は野球に打ち込み、全国軟式野球選手権大会ベスト8、国体出場。水道会社、ラーメン店副店長を経て、地元の友人がIT関連で起業したことがキッカケでプログラミングを学習する為にセブ島に留学する。現在は、Flutterエンジニアとして活動している。趣味のダンスでは、ももいろクローバーZ公式のフリコピ大会にも出場し、審査員特別賞を2回受賞する。楽しいことが大好きなので、エンジニア同士交流して横の繋がりを深めていきましょう！期待してるよ。"
+            },
+            "tokkuu": {
+                "name": "徳田 真之介",
+                "nickname": "tokkuu",
+                "company": "株式会社メルカリ",
+                "role": "AWS, LINE担当",
+                "description": "1991年生まれ。福岡出身。九州大学理学部物理学科卒業後、都内SIerにてインフラエンジニアを5年間経験。その後ミロゴス株式会社を経て株式会社サイバーエージェントにJoin。フロントエンド、バックエンド、インフラやPMなどフルスタックにこなすエンジニアとして従事中。好きな技術はFlutter/Next.js/Node.js/AWS CDK/AWS Lambda/Firebase。大学時代にはバンドマンとしてアルバムを2作自主リリースし、ツアーを実施する傍ら、塾講師・家庭教師などを経験し、人に教えるのも大好き。"
+            },
+            "cobo": {
+                "name": "小堀内 志",
+                "nickname": "cobo",
+                "company": "クラウドエース株式会社",
+                "role": "講師",
+                "description": "1998年生まれ。岩手県出身。2年制情報系専門学校を卒業後、県内のSIerに就職し、4年間電子カルテシステムの開発に携わる。その後エンジニア同士の繋がりと自身の技術領域を広げるために上京し、クラウドエース株式会社にてGoogle Cloudのスキルを習得中。趣味は弾き語りや音楽制作。kboyのYouTubeのBGMは彼が制作しています。楽しく学習できる環境作りを心がけていきます！"
+            },
+            "gan": {
+                "name": "岩本 崚汰",
+                "nickname": "gan",
+                "company": "フリーランス（NPO支援「エイドル」開発他）",
+                "role": "講師",
+                "description": "2000年生まれ。埼玉県出身。新潟大学理学部理学科数学プログラム卒。現在は同大学大学院の修士課程2年で応用数学の理論（凸解析学における漸近挙動）を研究中。また、2021年4月よりフリーランスとしてFlutter製のNPO支援アプリ「エイドル」の開発に参画している。Flutter大学では2023年2月に新潟オフ会を主催。趣味はバドミントン。質問者に寄り添ったコミュニケーションができるよう頑張っていきます！"
+            },
+            "ota": {
+                "name": "太田 龍之介",
+                "nickname": "ryu",
+                "company": "株式会社VISIONARY JAPAN",
+                "role": "講師",
+                "description": "1991年、静岡県生まれ。独学で異業種からスタートアップの会社に転職。FlutterエンジニアとしてFlutter webとFirebaseを用いたtoB向けのカスタマーサクセス専門サービスの開発に従事。現在は、株式会社VISIONARY JAPANで様々な案件に参画。個人開発の成果として、うさぎの体調管理用アプリ「うさぎDiary」をリリース。「うさぎの気持ち」という雑誌に掲載される。初学者に寄り添って開発のサポートができるように頑張ります！"
+            },
+            "heyhey": {
+                "name": "小川 将平",
+                "nickname": "heyhey",
+                "company": "株式会社マネーフォワード",
+                "role": "記事や登壇でコミュニティをリード",
+                "description": "1984年生まれ。石川県金沢に生まれ、その後高校まで海外を転々とする。上智大学比較文化学科卒。10年近く商社、メーカーの営業を経験後、エンジニアに転身。４年間フードテック系スタートアップでモバイルエンジニアとして従事した後、2023年 5月より株式会社マネーフォワードにてFlutterエンジニアとして勤務。英語とFlutterだけが強みの遅咲きエンジニア。使ってきた技術はFlutter/Dart/Firebase/Node.js/Typescript。最近ではAIやWeb３関連の技術にハマってます。"
+            },
+            "minn": {
+                "name": "北山 史織",
+                "nickname": "minn",
+                "company": "株式会社プラゴ",
+                "role": "講師",
+                "description": "2001年生まれ。青森県出身。高校卒業後上京し、Sler企業に一般事務として勤務。会社の同僚から勧められたのがきっかけでプログラミングを学習し、個人開発で画像のコレクションアプリをリリース。2022年7月に未経験からFlutterエンジニアへ転身し、AxiaWorksLLCで様々な案件に参画。現在は株式会社プラゴにてエンジニアを行う。仕事のできるカッコいい女性エンジニアを目指して日々努力しています。楽しく学んで一緒に成長していきましょう！"
+            },
+            "odaken": {
+                "name": "小田剣",
+                "nickname": "おだけん",
+                "company": "フリーランス（NPO支援「エイドル」開発他）",
+                "role": "講師",
+                "description": "1998年生まれ。佐賀県出身。専修大学経営学部経営学科卒。小学生から大学生までラグビーに打ち込み、全国国体４位を経験。大学卒業後は、ネットワークエンジニアとして就職、3社経験をした後、現在はFlutterエンジニアとして活動している。Flutter製のNPO支援アプリ「エイドル」の開発に参画し、テックフォードアカデミーにて講師を担当している。アプリ開発の楽しさをお伝えできるようサポート頑張ります！"
+            },
+            "miyajic": {
+                "name": "宮路 洸",
+                "nickname": "みやジック",
+                "company": "株式会社SODA",
+                "role": "講師",
+                "description": "1997年生まれ、愛知県出身。\n北海道大学情報科学院を卒業後、チームラボ株式会社に新卒で入社しスマホアプリエンジニアとして勤務中。学生時代からFlutter大学に参加し、共同開発ではスキ街を発案し継続中に開発中！\n楽しく開発や勉強のサポートをしていきたいと思います！"
+            },
+            "aoi": {
+                "name": "東 優太",
+                "nickname": "Aoi Umigishi",
+                "company": "フリーランス",
+                "role": "講師",
+                "description": "1992年生まれ。千葉出身。早稲田大学大学院基幹理工学研究科数学応用数理専攻卒。卒業後、トランス・コスモス株式会社に入社し、3次元CADを用いた機械部品設計エンジニアとして従事。「世界中の誰かが、自分の作ったアプリで笑顔になってほしい」という思いから、退職後、個人アプリ開発を開始し、半年で5つのFlutterアプリをリリース、フリーランスエンジニアとなる。Flutter大学のオウンドメディア「週刊Flutter大学」の運営、記事執筆も担当。「自走できるエンジニア化」を手助けします！"
+            },
+            "naoki": {
+                "name": "若田 直希",
+                "nickname": "わかなお",
+                "company": "株式会社Retty",
+                "role": "個人開発者の星",
+                "description": "1998年生まれ。北海道出身。北海道大学農学院卒。好きな食べ物バナナ。\n在学中にFlutter大学に入会しプログラミング学習を開始。卒業後、株式会社Rettyに入社しモバイルアプリチームでAndroidエンジニアとして日々奮闘中。個人開発ではFlutterで二郎系ラーメンに関するアプリを運用中で1日のユーザー数100人を達成。"
+            },
+            "kenty": {
+                "name": "戸倉 健",
+                "nickname": "kenty",
+                "company": "フリーランス",
+                "role": "講師",
+                "description": "1997年生まれ、埼玉県出身。千葉工業大学未来ロボティクス学科を卒業後、ダイアモンドヘッド株式会社に入社し、アパレル業界向けのECサービス開発に3年従事。2024年からフリーランスに転身し、Webサイト制作、Flutterアプリ(iOS, Android, Linux) 、講師業務など幅広い分野で活動中。2024年3月に株式会社ワンアーカーのテックリードに就任。実は個人でリリースしたアプリがないので、皆さんと一緒に学びながら開発したいと思ってます！乞うご期待！"
+            },
+            "fen": {
+                "name": "上田 賢志",
+                "nickname": "fen",
+                "company": "フリーランス",
+                "role": "講師",
+                "description": "2003年生まれ。福岡県出身。2022年にFlutter大学に参加し、Flutterシェアハウスや Flutter別荘で Flutter を学びフリーランスとして活動中。未経験から Flutter に触れ始め、躓いたところや苦しんだところなどたくさんの経験があるので、知見の共有や技術的なサポートをしてきたいと思います！個人開発ではネイティブ特有の機能を Flutter で利用できるような実装をやってます。趣味は麻雀と将棋です！"
+            }
+        }
+    },
+    "voice": {
+        "description": "Flutter大学について書かれた\nnoteやブログをご紹介します。"
+    },
+    "projects": {
+        "subtitle": "メンバーによる様々な取り組み",
+        "flutter_house": {
+            "title": "Flutterハウス",
+            "description": "Flutterハウスは、こんぶさんが立ち上げたFlutterエンジニアによるFlutterエンジニアのためのシェアハウス。某恋愛リアリティショーを意識して「フラハ」と呼ばれています。東京恵比寿にあるアパートの１室で4~6人のエンジニアが暮らしていて、仕事から遊びまで全力で楽しんでいます。月１でUTAGEと呼ばれる飲み会も開催中。Flutter大学メンバーが気軽に立ち寄れる東京の拠点です。",
+            "dateDescription": "2020年10月~"
+        },
+        "flutter_gakkai": {
+            "title": "FlutterGakkai",
+            "description": "FlutterGakkaiは、Flutterエンジニアのための勉強会です。以前からFlutter大学内では共同勉強会を行っていましたが、Flutter大学内に止まらず日本のFlutter界隈を盛り上げようということで立ち上がったオンライン勉強会です。今まで２回オンラインで開催しました。将来的にはオフラインで大々的に開催することを目指しています。",
+            "dateDescription": "2022年1月~"
+        },
+        "weekly_flutter_university": {
+            "title": "週刊Flutter大学",
+            "description": "週刊Flutter大学は、Aoiさんが編集長として始めたWEBメディアです。毎週更新される「今週のFlutterニュース」では常にFlutterの最新情報をキャッチアップできます。また、Flutter公式の最新リリースの際には最速で日本語まとめ記事をリリースしており、日本のFlutterメディアを牽引しています。",
+            "dateDescription": "2022年3月~"
+        },
+        "hackathon_victory": {
+            "title": "ハッカソン優勝",
+            "description": "Flutter大学内でチームを組んでハッカソンに出場しています。先日行われたSpajam2022第一回予選ではFlutterLoversが最優秀賞を獲得しました。Flutter×Firebaseのスキルセットは、開発スピードが早く、ハッカソン向きだと思われます。今後もその他のチームの出場予定があり期待が高まります。",
+            "dateDescription": "2022年8月"
+        },
+        "flutter_villa": {
+            "title": "Flutter別荘",
+            "description": "Flutter別荘は、こんぶさんが滋賀県東近江市の古民家を購入したことによりスタートしました。Flutterハウスに次ぐ第２のシェアハウスでもあり、今後Flutter合宿を行う拠点としても期待されています。庭には手作りサウナ小屋があり、車庫にパワーラックを持つジムがあり、そして高速Wifiもございます。事前に連絡することで泊まりにいくことが可能です。",
+            "dateDescription": "2022年8月~"
+        },
+        "flutter_women": {
+            "title": "Flutter女子",
+            "description": "Flutter大学の女子メンバーが定期的に集まって女子会をしたり、アプリ開発を行っています。現在、Flutter女子チームでクリスマスに向けたアプリを共同開発中！",
+            "dateDescription": "2022年10月~"
+        },
+        "xx_dart": {
+            "title": "〇〇.dart",
+            "description": "「地域×Flutter」というコンセプトのもと、〇〇.dartというFlutter勉強会を開催しています。Flutter大学に入っている人だけでなく、興味のある方々にも参加していただけます。5月には大阪.dart、6月には東京.dartが開催される予定です。北海道.dartも8月のビアガーデンシーズンに開催予定です。",
+            "dateDescription": "2023年3月~"
+        },
+        "morning_mokumoku": {
+            "title": "朝のもくもく会",
+            "description": "入る場所は、gatherというバーチャル上のワークスペースです。毎朝7:10~8:00まで、gather上のテーブルで一緒にもくもくと作業をして、8:00になったら左下のテーブルに集まって、今日やったことを報告して終了です。早起きしてみんなで作業する習慣付けに活用しています。",
+            "dateDescription": "2023年4月~"
+        },
+        "tokyo_flutter_hackathon": {
+            "title": "東京Flutterハッカソン",
+            "description": "Flutter大学と株式会社ゆめみの共同で、「東京Flutterハッカソン」を9/30,10/1の2日間で開催しました。多くの企業さんにスポンサーに入っていただき、またサイバーエージェントさんの会場もお借りして開催することができました。参加者はなんと100人超えで参加チームは23チームにおよびました。",
+            "dateDescription": "2023年9月"
+        },
+        "terakoya": {
+            "title": "テラコヤテック",
+            "description": "テラコヤテックは、これからのエンジニアのスキルとして需要の高いツール・言語を6ヶ月で習得できる、エンジニア養成プログラムです。採択制。完全無料。リツアンSTCさんとクラウドテックさんとFlutter大学がコラボして行われました。",
+            "dateDescription": "2023年12月~2024年5月"
+        },
+        "flutter_book": {
+            "title": "ゼロから学ぶFlutterアプリ開発の出版",
+            "description": "Flutter大学の創業者kboyが技術評論社からFlutterの入門書を出版しました。",
+            "dateDescription": "2023年12月"
+        },
+        "global_gamers_challenge": {
+            "title": "Global Gamers Challengeで日本優勝",
+            "description": "Global Gamers ChallengeというFlutter公式が主催するハッカソンで、みやじっくさんとkazukiさんのチームが作ったTurtle escapeがGoogle Wallet - Best Integration in Japanese - 1st placeに輝き、7,500USDの賞金を獲得しました！",
+            "dateDescription": "2024年5月"
+        },
+        "flutter_ninjas": {
+            "title": "FlutterNinjas Tokyo 2024",
+            "description": "Flutter大学メンバーがオーガナイザーとなり、FlutterNinjasという日本初の英語のFlutterカンファレンスを開催しました。Riverpod開発者のRemiさんをはじめ、多くの著名なFlutterエンジニアが世界から集まりました。",
+            "dateDescription": "2024年6月"
+        }
+    },
+    "media": {
+        "subtitle": "メディア掲載"
+    },
+    "join": {
+        "subtitle": "入学の流れ",
+        "joinSteps": {
+            "step01": {
+                "title": "GitHub認証"
+            },
+            "step02": {
+                "title": "プランを選択して決済"
+            },
+            "step03": {
+                "title": "Slackにて1on1のご案内",
+                "titleMobile": "Slackにて\n1on1のご案内"
+            }
+        }
+    },
+    "qa": {
+        "subtitle": "よくある質問",
+        "qaList(interface=QAModel)": [
+            {
+                "q": "初心者ですが、大丈夫ですか？",
+                "a": "大丈夫です。\nFlutter大学では初心者から中級者の方まで幅広くサポートしています。"
+            },
+            {
+                "q": "初心者はHTML等から始めるべきですか？",
+                "a": "いいえ。Flutterから始めて大丈夫です。\nもちろん知っているに越したことはありませんがFlutterから始めてバリバリ活躍されている方も多いのでご安心ください。"
+            },
+            {
+                "q": "Windowsですが、大丈夫ですか？",
+                "a": "大丈夫です。\nしかし、WindowsですとiPhoneアプリのデバッグができないのでMacの方がオススメです。"
+            },
+            {
+                "q": "競合他社との違いはなんですか？",
+                "a": "メンバーの質で負けない自信があります。\nFlutter大学は2020年4月からスタートし、メンバーと共に進化を重ねてきました。"
+            },
+            {
+                "q": "現役エンジニアは入る意味ありますか？",
+                "a": "実はFlutter大学のメンバーの7割以上が現役エンジニアで、エンジニア仲間を作る目的で入られる方も多いです。\nコミュニティプランに入り、勉強会や共同開発、オンライン交流会、オフ会、その他のプロジェクトを通してエンジニア仲間を作りましょう！"
+            },
+            {
+                "q": "入会後のお問い合わせ先は？",
+                "a": "Flutter大学アプリのお問い合わせページからお問い合わせください。"
+            },
+            {
+                "q": "決済方法について教えてください",
+                "a": "クレジットカード(VISA, JCB, MASTER, AMEX)でのお支払いに対応しております。\n入会日を起点とし、１ヶ月ごとに定期決済されます。"
+            },
+            {
+                "q": "法人でも活用できますか？",
+                "a": "法人様の活用事例もございます。\n詳しくは右下のお問い合わせからご連絡をお願いいたします。"
+            },
+            {
+                "q": "退会方法は？",
+                "a": "Flutter大学アプリのお問い合わせページからボタン一つで退会できます。\n面倒な電話問い合わせ等はございません。"
+            }
+        ]
+    },
+    "message": {
+        "title": "Flutter大学コミュニティの価値とは？",
+        "message": "技術の急速な進歩により、アプリ開発の手法は日々変化していますが、Flutter大学では単なる技術習得を超えた価値を大切にしています。\n\n私たちが最も重視するのは、メンバー一人ひとりが互いの成長を支え合う「学び合いのコミュニティ」です。\n\n質問や課題を一人で抱え込むのではなく、経験豊富なメンバーが惜しみなく知識を共有し、初心者の方でも安心して学習を進められる環境を築いてきました。\n\n共同開発やオンライン勉強会を通じて、個人の学習だけでは得られない実践的なスキルと、何よりも貴重な人とのつながりを育んでいます。\n\n私たちと一緒に、技術と人とのつながりを大切にした学習コミュニティを築いていきませんか？\n\nFlutter大学代表\n藤川慶"
+    },
+    "newMembers": {
+        "dayAgo": "日前",
+        "hourAgo": "時間前",
+        "minuteAgo": "分前",
+        "secondAgo": "秒前",
+        "future": "将来的",
+        "ni": "に、",
+        "joined": "さんが入会しました！"
+    },
+    "menu": {
+        "developmentExperience": "開発実績",
+        "threeFeatures": "3つの特徴",
+        "pricePlan": "料金プラン",
+        "members": "メンバー",
+        "memberVoice": "メンバーの声",
+        "enrollmentProcess": "入学の流れ",
+        "faq": "よくある質問",
+        "login": "ログイン"
+    },
+    "footer": {
+        "terms": "利用規約",
+        "tokusho": "特定商取引法に基づく表記",
+        "privacyPolicy": "プライバシーポリシー",
+        "operatingCompany": "運営会社"
+    },
+    "underMaintenance": "現在メンテナンス中です",
+    "schedule": {
+        "title": "スケジュール予約",
+        "description": "AIと人間講師に同時に聞ける\n個別相談やメンタリングのスケジュール予約は\nCalendlyページから行ってください。",
+        "calendlyButton": "Calendlyで予約する"
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "why": {
+        "why_flutter": "Why Flutter?",
+        "description": "Flutter is rapidly gaining popularity with incredible momentum. The enthusiasm of its developer community, backed by Google, along with its high productivity and excellent developer UX, have led to its quick adoption in the business world. Flutter Daigaku resonated with the appeal of Flutter and has been supporting the Japanese Flutter community since April 2020. Moving forward, we aim to include the global community, creating a world where developers can enjoy learning, exchanging work, and sharing app development knowledge.",
+        "learn_more": "Learn more about Flutter"
+    },
+    "works": {
+        "member_development_record": "Members' Developments",
+        "released_ago": "Released",
+        "updated_ago": "Updated",
+        "joint_development": "Joint Development",
+        "individual_development": "Individual Development"
+    },
+    "about": {
+        "three_features": "3 features of Flutter Daigaku",
+        "youtube_free": "Flutter lecture YouTube is available for free",
+        "live_support": "Live instructor support",
+        "ai_training": "Ask both AI and human instructors at the same time",
+        "coach": "We will be your learning coach.",
+        "learn_from_code": "Learn from reading the code",
+        "flutter_textbook": "Learn from the Flutter textbook",
+        "joint_study_meeting": "Joint study meetings for output",
+        "individual_development_presentation": "Boost motivation with individual development presentations",
+        "team_development": "Develop as a team",
+        "engineer_introduction": "We also introduce engineers",
+        "slack_interaction": "Way too active Slack communications",
+        "online_workroom": "Concentrate in an online workspace",
+        "online_exchange_meeting": "Make friends at online exchange meetups",
+        "share_house_off_meeting": "Share houses and in-person meetups",
+        "job_is_here": "Your job is here",
+        "youtube_free_description": "YouTube channel 'Flutter Daigaku' offers free learning materials. Please check it out.",
+        "live_support_description": "For those in the Flutter training plan, active Flutter engineers provide live support. You can also post questions on GitHub issues if you need text-based help.",
+        "ai_training_description": "With the AI Training Plan, you can ask unlimited questions to Gemini 2.5 Pro, the latest AI model. Get instant answers 24/7 and accelerate your Flutter learning with human instructor support when needed.",
+        "learn_from_code_description": "You can view the raw code of the Flutter Daigaku app and apps developed collaboratively on Github. Please check out our free public repositories.",
+        "flutter_textbook_description": "If you're on the Task Learning Plan or higher, you can learn with the Flutter Daigaku's exclusive textbook (generally priced at 5,000 yen on Zenn) and receive reviews when you complete tasks.",
+        "joint_study_meeting_description": "We hold collaborative study meetings on Wednesdays at 9 PM.",
+        "individual_development_presentation_description": "Monthly presentations are held to showcase individual development achievements.",
+        "team_development_description": "Teams are formed every three months for collaborative development!",
+        "engineer_introduction_description1": "At Flutter Daigaku, we accept inquiries from those looking for Flutter engineers. We can introduce you to suitable engineers from the ",
+        "engineer_introduction_description2": " engineers participating in Flutter Daigaku.",
+        "slack_interaction_description": "Conversations are not only about exchanging information on Flutter, but also about various topics from the latest AI trends and unique career discussions for engineers to talks about expanding overseas. Just one day without checking Slack results in a huge backlog of unread messages.",
+        "online_workroom_description": "We have prepared an online workspace using Gather.",
+        "online_exchange_meeting_description": "We hold online exchange meetups once a month using Zoom.",
+        "share_house_off_meeting_description": "We have a share house called 'FlaHa'(short sound of Flutter-House) in Ebisu, Tokyo, and an old house called 'Flutter Besso' in Higashiomi, Shiga, where Flutter Daigaku members live. In addition, in-person meetups are held every two months in Tokyo, Sapporo, Nagoya, Osaka, Fukuoka, etc.",
+        "job_is_here_description": "Flutter Daigaku is a community where you can learn Flutter and find a job. We share Flutter jobs, and we also introduce engineers to companies looking for Flutter engineers.",
+        "youtube_free_button": "YouTube 'Flutter Daigaku'",
+        "ai_training_button": "What is AI Training Plan?",
+        "learn_from_code_button": "GitHub 'Flutter Daigaku'",
+        "flutter_textbook_button": "Zenn Book 'Flutter Textbook'",
+        "joint_study_meeting_button": "Summary of Joint Study Meetings",
+        "individual_development_presentation_button": "What is Individual Development Presentation?",
+        "team_development_button": "What is Team Development?",
+        "engineer_introduction_button": "Looking for Flutter Engineers?",
+        "slack_interaction_button": "How to Use Flutter Daigaku on Slack",
+        "online_workroom_button": "What is Online Workspace?",
+        "online_exchange_meeting_button": "What is Online Exchange Meetup?",
+        "share_house_off_meeting_button": "Flutter Besso's Twitter",
+        "mentor_plans": "Exclusive mentoring platform within Flutter Daigaku",
+        "mentor_plans_description": "There exists a platform where you can receive one-on-one instruction from a teacher within Flutter Daigaku, started under the alias 'CodeBoy2'. Teachers are Flutter Daigaku members and can provide instruction and mentoring through a learning platform that only takes an extraordinary fee of 4-10%. Learners can receive one-on-one instruction from excellent engineers within Flutter Daigaku."
+    },
+    "plan": {
+        "community": "Community Plan",
+        "learning": "Learning Plan",
+        "trainingLight": "Light Training Plan",
+        "training": "Training Plan",
+        "aiTraining": "AI Training Plan"
+    },
+    "price": {
+        "lPDescription": {
+            "community": "Study together in a community",
+            "learning": "Learn Flutter with exclusive materials",
+            "trainingLight": "Learn Flutter with professional help sometimes",
+            "training": "Master Flutter with professional help",
+            "aiTraining": "Learn Flutter with unlimited AI"
+        },
+        "lPFeature1": "・Access to the app\n・Join the Slack\n・Browse the GitHub\n・Collaborate on dev projects\n・Group study\n・Access videos\n・Networking events",
+        "lPFeature2": "Everything in Community, and\n・Access to exclusive materials",
+        "lPFeature3": "Everything in Learning, and\n・Light support included",
+        "lPFeature4": "Everything in Learning, and\n・Full support included\n・Text questions on github\n・Give away 2,860JPY Flutter Book",
+        "lPFeature5": "Everything in Learning, and\n・Unlimited Gemini 2.5 Pro chat \n・10y experienced Human instructor support when needed\n・Give away 2,860JPY Flutter Book",
+        "yen": "JPY",
+        "yen_per_month": " JPY / mo",
+        "month": "mo",
+        "threeMonth": "3mo",
+        "sixMonth": "6mo",
+        "year": "yr",
+        "if_convert_to_month": "Equivalent to",
+        "threeMonthsOff": "3 months off!!"
+    },
+    "interval": {
+        "monthly": "Monthly",
+        "threeMonth": "3Month",
+        "sixMonth": "6Month",
+        "annual": "Annual"
+    },
+    "cta_github": "Sign up with GitHub",
+    "cta": "Sign up with Email",
+    "cta_available_count1": "Only ",
+    "cta_available_count2": " more available now.",
+    "cta_no_available": "No more available right now.",
+    "people": {
+        "subtitle1": "Instructors",
+        "subtitle2": "Powerful members",
+        "other1": "The total is",
+        "other2": "members!",
+        "slackAPI": "※Counted every hour using Slack API.",
+        "peoples": {
+            "kosuke": {
+                "name": "Kosuke Saigusa",
+                "nickname": "Kosuke",
+                "company": "Ubie, Inc.",
+                "role": "Study Meetup Leader",
+                "description": "Born in 1995, from Fukuoka Prefecture. Graduated from Kyushu University with a degree in Mechanical and Aerospace Engineering. After graduation, worked at Siemens’ research facility in Belgium, focusing on machine learning. Later became a Web and Flutter engineer, working at Atama Plus Co., Ltd., SODA Inc., and currently employed at Omiai Co., Ltd. Spoke at FlutterKaigi 2023 and FlutterNinjas 2024. Developer of multiple pub packages. Let’s enjoy learning technology together!"
+            },
+            "daigo": {
+                "name": "Daigo Wakabayashi",
+                "nickname": "Daigo",
+                "company": "Freelance",
+                "role": "Online Meetup Leader",
+                "description": "Born in 1998 in Osaka. After graduating from Osaka University of Health and Sport Sciences, he joined UNIQLO. In October 2020, he resigned from UNIQLO to become a disciple of KBOY and moved from Osaka to Sapporo to assist in the development of Flutter-based apps. After a one-year training period, he has been working as a freelance Flutter engineer since October 2021 and has participated in several app development projects, including idol-related projects. He is active in various fields at Flutter Daigaku, such as organizing online social gatherings and managing Flutter Gakkai. He is known for his easy-to-understand advice and article writing as a presence close to beginners in teaching. Let's work hard together, beginners!"
+            },
+            "kboy": {
+                "name": "Kei Fujikawa",
+                "nickname": "kboy",
+                "company": "KBOY Inc. CEO",
+                "role": "Founder",
+                "description": "Born in 1991, from Sapporo. Graduated from Waseda University's School of Creative Science and Engineering, Department of Mechanical Engineering. After experiencing the role of development director for a flea market app at Proto Corporation, he transitioned to engineering and worked on 'NewsDigest' at JX Press Corp and the AR app 'Pechabato' at Graffity. After a year and a half as a freelancer, he founded KBOY Inc. in June 2020. Achieving 20,000 subscribers on YouTube and TikTok, which he had been doing since his freelance days, he started the Flutter Daigaku service with great enthusiasm. Let's work together to create successful apps!"
+            },
+            "masaki": {
+                "name": "Masaki Satoh",
+                "nickname": "Masaki",
+                "company": "Freelance",
+                "role": "Personal Development Project Leader",
+                "description": "Born in 1995 in Aichi Prefecture. Graduated from the International Japanese Studies Department at Meiji University. During his studies, he experienced an overseas internship at AIESEC Japan, where he also worked on marketing for an English education startup in Taiwan. After that, he worked on several service start-ups with his university friends, but they all failed. In the meantime, he made a living by working for Uber Eats, among others. Currently, he is a freelance Flutter engineer and is developing his own app. Let's use Flutter to bring your ideas to life together!"
+            },
+            "uetomo": {
+                "name": "Tomohiro Ueno",
+                "nickname": "Uetomo",
+                "company": "Freelance",
+                "role": "Event Coordinator",
+                "description": "Born in 1993 in Yamagata Prefecture. He devoted himself to baseball during his student years and achieved Best 8 in the National Softball Baseball Championship and participated in the National Sports Festival. After working at a water supply company and serving as the deputy manager of a ramen shop, he decided to learn programming because a friend from his hometown started a business related to IT. He studied abroad on Cebu Island to learn programming. Currently, he is working as a Flutter engineer. He loves fun things, so let's deepen our connections as engineers and have fun together!"
+            },
+            "tokkuu": {
+                "name": "Shinnosuke Tokuda",
+                "nickname": "tokkuu",
+                "company": "Mercari, Inc.",
+                "role": "AWS and LINE Specialist",
+                "description": "Born in 1991, from Fukuoka. After graduating from Kyushu University's Faculty of Science, Department of Physics, he worked as an infrastructure engineer at a Tokyo-based SIer (System Integrator) for 5 years. He then joined Milogos Inc., after that, he joined CyberAgent, Inc. where he is currently engaged as a full-stack engineer, handling frontend, backend, infrastructure, and project management. His favorite technologies are Flutter, Next.js, Node.js, AWS CDK, AWS Lambda, and Firebase. During his university days, he independently released two albums as a band member, conducted tours, and also gained experience as a cram school tutor and private tutor, which fostered his love for teaching."
+            },
+            "cobo": {
+                "name": "Nozomi Kobayashi",
+                "nickname": "cobo",
+                "company": "Cloud Ace",
+                "role": "Instructor",
+                "description": "Born in 1998, hailing from Iwate Prefecture. After graduating from a two-year Information Technology College, he joined an SIer (System Integrator) in the same prefecture and was involved in the development of electronic medical record systems for four years. He then moved to Tokyo to expand his network among engineers and broaden his technical expertise, and is currently learning Google Cloud skills at Cloud Ace Inc. His hobbies include playing guitar, singing, and music production. He produces the background music for kboy's YouTube videos. He strives to create an enjoyable learning environment!"
+            },
+            "gan": {
+                "name": "Ryota Iwamoto",
+                "nickname": "gan",
+                "company": "Freelance",
+                "role": "Instructor",
+                "description": "Born in 2000, from Saitama Prefecture. Graduated from the Mathematics Program of the Faculty of Science at Niigata University. Currently in the second year of the Master's program at the same university, researching the theory of applied mathematics (asymptotic behavior in convex analysis). Since April 2021, working as a freelancer on the development of the Flutter-made NPO support application, 'Aidl'. Hosted the Niigata off-meetup in February 2023 at Flutter Daigaku. My hobby is badminton. I will do my best to communicate closely with learners!"
+            },
+            "ota": {
+                "name": "Ota Ryunosuke",
+                "nickname": "ryu",
+                "company": "VISIONARY JAPAN",
+                "role": "Instructor",
+                "description": "Born in Shizuoka Prefecture in 1991. I transitioned from a completely different industry to a startup company through self-study. I work as a Flutter engineer, engaged in the development of a B2B-oriented customer success specialist service using Flutter web and Firebase. Currently, I am involved in various projects at VISIONARY JAPAN Inc. As a result of my personal development, I released a health management application for rabbits, 'Rabbit Diary'. It was featured in a magazine called 'The Feelings of Rabbits'. I will do my best to provide development support that caters to beginners!"
+            },
+            "heyhey": {
+                "name": "Shohei Ogawa",
+                "nickname": "heyhey",
+                "company": "Money Forward",
+                "role": "Leading the community",
+                "description": "Born in Kanazawa, 1984. Lived around the world until coming back to Japan for high school. Graduated Sophia University, Department of Comparative Culture. Made a transition to Software Developer, after 10 years of experience as a Sales in Food industry. After working 4 years as a Mobile application developer at Food tech Startup, joined MoneyForward inc. in May, 2023. Late bloomer whose only strength is in English and Flutter. Have used Flutter/Dart/Firebase/Node.js/Typescript. Into technologies related to AI and Web3 these days."
+            },
+            "minn": {
+                "name": "Shiori Kitayama",
+                "nickname": "minn",
+                "company": "PLUGO",
+                "role": "Instructor",
+                "description": "Born in 2001, hailing from Aomori Prefecture. After graduating high school, I moved to Tokyo and started working as a general administrative staff at Sler Corporation. It was a colleague's recommendation that sparked my interest in programming, leading me to develop and release a personal project - an image collection app. In July 2022, I made a career change from being inexperienced to becoming a Flutter engineer. And then, I'm actively involved in various projects at AxiaWorksLLC. After that, I ended up working at PLUGO. My daily motivation is to strive to become a competent, stylish female engineer. Let's enjoy learning and grow together!"
+            },
+            "odaken": {
+                "name": "Tsurugi Oda",
+                "nickname": "odaken",
+                "company": "Freelance",
+                "role": "Instructor",
+                "description": "Born in 1998. Originally from Saga Prefecture. Graduated from Senshu University's Faculty of Business Administration, Department of Business Administration. From elementary school to university, he was dedicated to rugby and achieved a 4th place finish at the national athletic meet. After graduating from university, he started his career as a network engineer and, after experiencing three different companies, he is now active as a Flutter engineer. He has been involved in the development of a Flutter-based NPO support app called \"Aidol\" and is serving as an instructor at Techford Academy. He strives to convey the joy of app development!"
+            },
+            "miyajic": {
+                "name": "Kou Miyaji",
+                "nickname": "miyajic",
+                "company": "SODA inc.",
+                "role": "Instructor",
+                "description": "Born in 1997 in Aichi Prefecture, I graduated from the Graduate School of Information Science and Technology at Hokkaido University. Currently, I am working as a smartphone app engineer at TeamLab Inc., having joined the company as a new graduate. Since my student days, I have been involved with Flutter University, where I came up with the idea for \"Suki Machi\" and am continuing its development. I am excited to support fun learning and development experiences for others!"
+            },
+            "aoi": {
+                "name": "Yuta Azuma",
+                "nickname": "Aoi Umigishi",
+                "company": "Freelance",
+                "role": "Instructor",
+                "description": "Born in 1992 in Chiba. After graduating from the Graduate School of Fundamental Science and Engineering at Waseda University, he joined Trans Cosmos Co., Ltd. and worked as a mechanical parts design engineer using 3D CAD. He left the company because he wanted someone, somewhere in the world to smile because of the app he created. After half a year of developing individual apps, he became a freelance engineer by releasing five Flutter apps. He also manages and writes articles for the Flutter Daigaku's own media, \"Weekly Flutter Daigaku.\" Let us assist you in becoming a \"self-driving\" engineer!"
+            },
+            "naoki": {
+                "name": "Naoki Wakata",
+                "nickname": "Wakanao",
+                "company": "Retty Inc.",
+                "role": "A star among indie developers",
+                "description": "Born in 1998. Hailing from Hokkaido. Graduate of the Faculty of Agriculture at Hokkaido University. Favorite food: bananas.\nJoined Flutter Daigaku during university and started learning programming. After graduation, joined the company Retty and is currently striving as an Android engineer in the mobile app team. In personal development, operates an app related to Jiro-style ramen using Flutter, achieving a daily user count of 100.\nLet's learn app development together with joy!!"
+            },
+            "kenty": {
+                "name": "Ken Tokura",
+                "nickname": "kenty",
+                "company": "Freelance",
+                "role": "Instructor",
+                "description": "Born in 1997 in Saitama Prefecture. Graduated from the Future Robotics Department at Chiba Institute of Technology. After graduation, worked at Diamondhead Inc. for 3 years, engaged in the development of EC services for the apparel industry.\nSince 2024, transitioned to freelancing, active in various fields such as website development, Flutter apps (iOS, Android, Linux), and teaching.\nIn March 2024, appointed as the tech lead at One Archer Co., Ltd.\nActually, I haven't released any apps personally, so I'm eager to learn and develop together with everyone! Stay tuned!"
+            },
+            "fen": {
+                "name": "Kenshi Ueda",
+                "nickname": "fen",
+                "company": "Freelance",
+                "role": "Instructor",
+                "description": "Born in 2003, from Fukuoka Prefecture. Joined Flutter University in 2022, learning Flutter at places like the Flutter share house and Flutter villa, and now working as a freelancer. Started Flutter with no prior experience and faced many challenges along the way, which makes me eager to share knowledge and provide technical support! In my personal projects, I implement native-specific features using Flutter. My hobbies are Mahjong and Shogi!"
+            }
+        }
+    },
+    "voice": {
+        "description": "Here are some blogs\nabout Flutter Daigaku in Japanese"
+    },
+    "projects": {
+        "subtitle": "Cool things members are doing",
+        "flutter_house": {
+            "title": "Flutter House",
+            "description": "Flutter House is a sharehouse for Flutter engineers founded by Konbu-san. Located in Ebisu, Tokyo, it's a 4-6 person apartment where engineers live and enjoy work and play to the fullest. A drinking party called UTAGE is held once a month. It's a base in Tokyo where Flutter Daigaku members can easily drop in.",
+            "dateDescription": "October 2020~"
+        },
+        "flutter_gakkai": {
+            "title": "Flutter Gakkai",
+            "description": "Flutter Gakkai is a study group for Flutter engineers. It's an online study group that aims to boost the Flutter community in Japan beyond Flutter Daigaku. It has been held online twice so far, with the aim of holding a large-scale offline event in the future.",
+            "dateDescription": "January 2022~"
+        },
+        "weekly_flutter_university": {
+            "title": "Weekly Flutter Daigaku",
+            "description": "Weekly Flutter Daigaku is a WEB media started by Aoi-san as editor-in-chief. The 'This Week's Flutter News' updated every week allows you to catch up with the latest Flutter information. In addition, at the time of the latest release of Flutter official, it releases a Japanese summary article at the fastest speed and leads the Japanese Flutter media.",
+            "dateDescription": "March 2022~"
+        },
+        "hackathon_victory": {
+            "title": "Hackathon victory",
+            "description": "Flutter lovers participated in the hackathon as a team within Flutter Daigaku. In the first round of Spajam2022, FlutterLovers won the grand prize. The Flutter x Firebase skill set is fast and suitable for hackathons. There are plans for other team participation in the future, so expectations are high.",
+            "dateDescription": "August 2022"
+        },
+        "flutter_villa": {
+            "title": "Flutter Besso",
+            "description": "Flutter Besso started when Konbu-san purchased an old Japanese house in Higashiomi City, Shiga Prefecture. It is the second sharehouse after Flutter House and is also expected to be a base for Flutter camps in the future. There is a handmade sauna house in the garden, a gym with a power rack in the garage, and high-speed wifi is also available. You can stay overnight by contacting us in advance.",
+            "dateDescription": "August 2022~"
+        },
+        "flutter_women": {
+            "title": "Flutter Womens",
+            "description": "Female members of Flutter Daigaku regularly gather for girls' meetings and app development. Currently, the Flutter Women team is jointly developing an app for Christmas!",
+            "dateDescription": "October 2022~"
+        },
+        "xx_dart": {
+            "title": "〇〇.dart",
+            "description": "Under the concept of \"locality × Flutter,\" we hold a Flutter study group called \"〇〇.dart.\" Anyone interested in Flutter is welcome to participate, not just those enrolled in Flutter Daigaku. In May, there are plans to hold Osaka.dart, and Tokyo.dart in June.. Additionally, we plan to hold Hokkaido.dart during the beer garden season in August.",
+            "dateDescription": "March 2023~"
+        },
+        "morning_mokumoku": {
+            "title": "Morning Mokumoku",
+            "description": "The gathering place is a virtual workspace called Gather. Every morning from 7:10 to 8:00, we work together on Gather tables and then gather at the lower left table at 8:00 to report on what we accomplished that day. This habit helps us develop a routine of waking up early and working together.",
+            "dateDescription": "April 2023~"
+        },
+        "tokyo_flutter_hackathon": {
+            "title": "Tokyo Flutter Hackathon",
+            "description": "Flutter Daigaku and Yumemi jointly held the Tokyo Flutter Hackathon for two days on September 30th and October 1st. We had many companies sponsor the event, and rent the CyberAgent venue to hold the event. There were over 100 participants and 23 participating teams.",
+            "dateDescription": "September 2023"
+        },
+        "terakoya": {
+            "title": "Terakoya Tech",
+            "description": "Terakoya Tech is an engineering training program where you can learn highly demanded tools and languages as future engineering skills within six months. It's a selective program, completely free, and was conducted in collaboration with Ritsuan STC, Cloudtech, and Flutter University.",
+            "dateDescription": "December 2023 to May 2024"
+        },
+        "flutter_book": {
+            "title": "Flutter Tutorial Book on sale",
+            "description": "Flutter Daigaku founder kboy has published an introductory book on Flutter from Gijutsu Hyoronsha.",
+            "dateDescription": "December 2023"
+        },
+        "global_gamers_challenge": {
+            "title": "Best Integration in Japanese - 1st place at Global Gamers Challenge",
+            "description": "Flutter Daigaku members participated in the Global Gamers Challenge, a hackathon for game development. The team's app called Turtle escape won the Google Wallet - Best Integration in Japanese - 1st place. They got 7500USD.",
+            "dateDescription": "May 2024"
+        },
+        "flutter_ninjas": {
+            "title": "FlutterNinjas Tokyo 2024",
+            "description": "An international Flutter conference in Tokyo Japan on Jun 13-14th 2024. See you in 2025.",
+            "dateDescription": "June 2024"
+        }
+    },
+    "media": {
+        "subtitle": "Featured in Japanese media."
+    },
+    "join": {
+        "subtitle": "Joining process",
+        "joinSteps": {
+            "step01": {
+                "title": "Sign up with GitHub"
+            },
+            "step02": {
+                "title": "Select plan\n& make payment"
+            },
+            "step03": {
+                "title": "1on1 zoom meeting on Slack",
+                "titleMobile": "1on1 zoom meeting \non Slack"
+            }
+        }
+    },
+    "qa": {
+        "subtitle": "Frequently Asked Questions",
+        "qaList(interface=QAModel)": [
+            {
+                "q": "I am a beginner, is it okay to join Flutter Daigaku?",
+                "a": "Yes, it is. At Flutter Daigaku, we offer support for beginners to intermediate level learners."
+            },
+            {
+                "q": "Should beginners start with HTML and other technologies?",
+                "a": "No, they should start with Flutter. While it's always helpful to have prior knowledge, many individuals who started with Flutter are now active contributors to the field."
+            },
+            {
+                "q": "Is it okay to use Windows?",
+                "a": "Yes, it is. However, please note that you cannot debug iPhone apps on Windows, so a Mac is recommended for that purpose."
+            },
+            {
+                "q": "What sets you apart from your competitors?",
+                "a": "We are confident in the quality of our members. Flutter Daigaku has been evolving with our members since its launch in April 2020."
+            },
+            {
+                "q": "Is there a point for active engineers to join?",
+                "a": "Actually the 70% of members are Software engineer right now. So many join to make connections with fellow engineers. Join our community plan and create connections through study groups, joint development, online events, offline events, and other projects."
+            },
+            {
+                "q": "Where can I contact for inquiries after joining?",
+                "a": "Please use the inquiry page on the Flutter Daigaku app."
+            },
+            {
+                "q": "What are the payment methods?",
+                "a": "We support credit card payments (VISA, JCB, MASTER, AMEX). You will be charged on a monthly basis starting from the day you join."
+            },
+            {
+                "q": "Can corporations also use this?",
+                "a": "There are use cases for corporations as well. For more details, please contact us through the inquiry form at the bottom right."
+            },
+            {
+                "q": "How do I withdraw my membership?",
+                "a": "You can easily withdraw your membership through a single button on the inquiry page of the Flutter Daigaku app. No need for complicated phone inquiries."
+            }
+        ]
+    },
+    "message": {
+        "title": "What Makes Flutter Daigaku Community Special?",
+        "message": "While technology continues to evolve rapidly, at Flutter Daigaku we value something beyond just technical skill acquisition - the power of a supportive learning community.\n\nWhat we treasure most is our \"collaborative learning environment\" where every member supports each other's growth and development.\n\nRather than struggling with questions and challenges alone, our experienced members generously share their knowledge, creating a welcoming space where even beginners can learn with confidence.\n\nThrough joint development projects and online study sessions, members gain practical skills that individual learning cannot provide, and most importantly, they build valuable connections with fellow developers.\n\nWould you like to join us in building a learning community that values both technical excellence and meaningful human connections?\n\nRepresentative of Flutter Daigaku,\nKei Fujikawa"
+    },
+    "newMembers": {
+        "dayAgo": " days ago",
+        "hourAgo": " hours ago",
+        "minuteAgo": " minutes ago",
+        "secondAgo": " seconds ago",
+        "future": "future",
+        "ni": ", ",
+        "joined": " joined!"
+    },
+    "menu": {
+        "developmentExperience": "Works",
+        "threeFeatures": "Features",
+        "pricePlan": "Price",
+        "members": "Members",
+        "memberVoice": "Voice",
+        "enrollmentProcess": "Joining Process",
+        "faq": "FAQ",
+        "login": "Log In"
+    },
+    "footer": {
+        "terms": "Terms and Conditions",
+        "tokusho": "Specified Commercial Transactions Act",
+        "privacyPolicy": "Privacy Policy",
+        "operatingCompany": "Company"
+    },
+    "underMaintenance": "Currently under maintenance",
+    "schedule": {
+        "title": "Schedule Booking",
+        "description": "You can ask both AI and human instructors at the same time\nfor individual consultations and mentoring.\nPlease book your schedule from Calendly page.",
+        "calendlyButton": "Book with Calendly"
+    }
+}
